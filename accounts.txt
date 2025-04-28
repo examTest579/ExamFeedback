@@ -1,0 +1,89 @@
+-----
+'name': a
+'email': zak@gmail.com
+'password': a
+-----
+-----
+'name': a
+'email': dfbshfdbs
+'password': a
+-----
+-----
+'name': tester
+'email': test@gmail
+'password': testpass
+-----
+-----
+'name': Test2
+'email': testemail
+'password': testpassw
+-----
+-----
+'name': zak
+'email': email@gmail
+'password': fdsfdsfds
+-----
+-----
+'name': test3
+'email': test3
+'password': sdasdad
+-----
+'name': test4
+'email': test4
+'password': testtetststs
+-----
+'name': a
+'email': & "C:/Program Files/Python311/python.exe" "//10.10.10.10/home/Zak Osakowicz/Task2/Task2_Prototype/BackEnd/signUp.py"
+'password': & "C:/Program Files/Python311/python.exe" "//10.10.10.10/home/Zak Osakowicz/Task2/Task2_Prototype/BackEnd/signUp.py"
+-----
+'name': Test
+'email': TestEmail
+'password': TestPassword
+-----
+'name': zak
+'email': aa
+'password': a
+-----
+'name': zak
+'email': em@ail
+'password': dsadsadaa
+-----
+'name': dfsfd
+'email': dsfdsfd@
+'password': dsadsad
+-----
+'name': test5
+'email': tes@
+'password': dsada
+-----
+'name': Zak
+'email': email@gmail.com
+'password': PasswordTest
+-----
+'name': TestSeven
+'email': test7@gmail.com
+'password': testpass7
+-----
+'name': Zak
+'email': testaccount@gmail.com
+'password': placeh0lder_passw0rd
+-----
+'name': John
+'email': johndoe@gmail.com
+'password': drowsssap
+-----
+ttttt, asdfghggh@, ertyui
+-----
+zakTester, zakTester@gmail, password
+-----
+aa, @1234, passwo
+-----
+TesterName, Tester@email, TesterPassword
+-----
+integrationTest, IT@gmail.com, testPassword
+-----
+Alice, alice@email, alicePassword
+-----
+Jane Doe, janedoe@email, janeDoePass
+-----
+Adam, adam@email, adamsPassword
